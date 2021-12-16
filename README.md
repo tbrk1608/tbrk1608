@@ -9,7 +9,9 @@ I worked as a Project Engineer at Wipro Ltd in Hyderabad, India for 1.9 yrs wher
 Prior to this, I worked as a Junior Data Scientist in Datafoundry at Bengaluru, India where I built an automated clinical drug's label document review tool and NLP module for identification of contradiction statements in medical guidelines.
 
 GitHub - https://github.com/tbrk1608
+
 Linkedin - https://www.linkedin.com/in/tbrk1608
+
 Rpubs - https://rpubs.com/tbrk1608
 <!---
 tbrk1608/tbrk1608 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
