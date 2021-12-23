@@ -1,6 +1,8 @@
 ### Hi there, I'm Vamsy Tammineedi (tbrk1608) 👋
 
-Exploring data to uncover patterns and generating insights inspires me. I am currently pursuing a Master's degree in Business Analytics at the University of Illinois, Chicago, and looking for summer internships in 2022. 
+Data science professional with more than 2 years of experience and skilled in Python, R, Machine Learning. Exploring data and generating useful insights inspire me. Exploring data to uncover patterns and generating insights inspires me. 
+
+I am currently pursuing a Master's degree in Business Analytics at the University of Illinois, Chicago.
 
 I worked as a Project Engineer at Wipro Ltd in Hyderabad, India for 1.9 yrs where I developed an ML model for AI FAQ bot using NLP techniques and also automated several manual processes. 
 
