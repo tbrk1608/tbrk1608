@@ -1,6 +1,7 @@
 ### Hi there, I'm Vamsy Tammineedi (tbrk1608) 👋
 
-Data science professional with more than 2 years of experience and skilled in Python, R, Machine Learning. Exploring data and generating useful insights inspire me. Exploring data to uncover patterns and generating insights inspires me. 
+Data science professional with more than 2 years of experience and skilled in Python, R, Machine Learning. 
+Exploring data and generating useful insights inspire me. Exploring data to uncover patterns and generating insights inspires me. 
 
 I am currently pursuing a Master's degree in Business Analytics at the University of Illinois, Chicago.
 
@@ -20,7 +21,7 @@ Prior to this, I worked as a Junior Data Scientist in Datafoundry at Bengaluru, 
 
 <br />
 
-### My Works:
+### My works:
 [<img align="left" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/285_R_Project_logo-256.png" />][rpubs]
 [<img align="left" width="22px" src="https://cdn2.iconfinder.com/data/icons/mixd/512/3_tableau-256.png" />][tableau]
 [<img align="left" width="22px" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-256.png" />][kaggle]
