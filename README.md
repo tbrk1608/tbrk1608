@@ -1,13 +1,12 @@
 ### Hi there, I'm Vamsy Tammineedi (tbrk1608) 👋
 
-Data science professional with more than 2 years of experience and skilled in Python, R, Machine Learning. 
-Exploring data and generating insights inspire me.
+I'm a Data Science professional with about 3 years of experience and am highly skilled in Python, R, SQL, and Machine Learning. Exploring data and generating insights inspire me. I am currently pursuing a Master's degree in Business Analytics at the University of Illinois, Chicago.
 
-I am currently pursuing a Master's degree in Business Analytics at the University of Illinois, Chicago.
+Currently, I am doing my internship at CCC Intelligent Solutions, Chicago, IL as a Data Science Engineer (R/D) Intern. My responsibilities include running AI model experiments, interpreting the results, preparing dashboards, and also building data pipelines. 
 
-I worked as a Project Engineer at Wipro Ltd in Hyderabad, India for 1.9 yrs where I developed an ML model for AI FAQ bot using NLP techniques and also automated several manual processes. 
+Before coming to the US, in India, I worked as a Project Engineer at Wipro Ltd in Hyderabad for 2 years where I developed an ML model for AI FAQ Chatbot using NLP techniques and also automated several manual processes using Python
 
-Prior to this, I worked as a Junior Data Scientist in Datafoundry at Bengaluru, India where I built an automated clinical drug's label document review tool and NLP module for identification of contradiction statements in medical guidelines.
+Prior to this, I worked as a Junior Data Scientist in Datafoundry at Bengaluru, India where I built an automated clinical drug label document review tool and a machine model for the identification of contradiction statements in given clinical data. 
 
 ### More about me:
 
