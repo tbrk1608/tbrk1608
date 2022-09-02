@@ -2,7 +2,7 @@
 
 I'm a Data Science professional with about 3 years of experience and am highly skilled in Python, R, SQL, and Machine Learning. Exploring data and generating insights inspire me. I am currently pursuing a Master's degree in Business Analytics at the University of Illinois, Chicago.
 
-Currently, I am doing my internship at CCC Intelligent Solutions, Chicago, IL as a Data Science Engineer (R/D) Intern. My responsibilities include running AI model experiments, interpreting the results, preparing dashboards, and also building data pipelines. 
+Currently, I am working at CCC Intelligent Solutions, Chicago, IL as a Data Science Engineer (R/D) Intern. My responsibilities include running AI model experiments, interpreting the results, preparing dashboards, and also building data pipelines. 
 
 Before coming to the US, in India, I worked as a Project Engineer at Wipro Ltd in Hyderabad for 2 years where I developed an ML model for AI FAQ Chatbot using NLP techniques and also automated several manual processes using Python
 
