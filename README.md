@@ -1,12 +1,22 @@
 ### Hi there, I'm Vamsy Tammineedi (tbrk1608) 👋
 
-I'm a Data Science professional with about 3 years of experience and am highly skilled in Python, R, SQL, and Machine Learning. Exploring data and generating insights inspire me. I am currently pursuing a Master's degree in Business Analytics at the University of Illinois, Chicago.
+With three years of experience as a Data Engineer, I possess a strong command of Python, R, SQL, Big Data, and Machine Learning tools. My enthusiasm lies in applying my data engineering expertise to address complex challenges and foster innovation in the field of data science and engineering.
 
-Currently, I am working at CCC Intelligent Solutions, Chicago, IL as a Data Science Engineer (R/D) Intern. My responsibilities include running AI model experiments, interpreting the results, preparing dashboards, and also building data pipelines. 
+I earned my Master's degree in Business Analytics from the University of Illinois at Chicago. During my tenure as a Data Science Engineer (R/D) Intern at CCC Intelligent Solutions, I engaged in AI model experiments, machine learning model deployment, and building data pipelines.
 
-Before coming to the US, in India, I worked as a Project Engineer at Wipro Ltd in Hyderabad for 2 years where I developed an ML model for AI FAQ Chatbot using NLP techniques and also automated several manual processes using Python
+Before relocating to the US for my Master's, I spent two years as a Project Engineer at Wipro in India, and as a Junior Data Scientist at Datafoundry in Bangalore, India. In these roles, I honed my skills in automating manual processes and training NLP-based machine learning models.
 
-Prior to this, I worked as a Junior Data Scientist in Datafoundry at Bengaluru, India where I built an automated clinical drug label document review tool and a machine model for the identification of contradiction statements in given clinical data. 
+To learn more about me:
+Website: http://sites.google.com/view/tbrk1608
+
+Let's connect:
+LinkedIn: https://www.linkedin.com/in/tbrk1608/
+
+Explore my work:
+GitHub: https://github.com/tbrk1608
+RPubs: https://rpubs.com/tbrk1608
+Tableau Public: https://public.tableau.com/app/profile/tbrk1608
+Kaggle: https://www.kaggle.com/tbrk16. 
 
 ### More about me:
 
